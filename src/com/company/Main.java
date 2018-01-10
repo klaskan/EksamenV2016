@@ -44,6 +44,7 @@ public class Main {
          */
 
 
+        PengeAutomat pengeAutomat = new PengeAutomat(10, 2, 40);
 
 
 
